@@ -1,4 +1,4 @@
-# AWS - Machine Learning - 1
+# AWS Setup for GWU Data Science Students
 
 This Repo contains setup information and screenshots for students to create an EC2 instance with Amazon's Deep Learning AMI on the GWU Data Science Program's account. It also contains information/setup instructions for configuring a secure Jupyter Notebook Server for both Mac/Windows machines.
 
